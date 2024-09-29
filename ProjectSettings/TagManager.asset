@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dead
+  - Tile
+  - HeartObject
+  - Coin
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 952013271
+    locked: 0
+  - name: BackGround_deco
+    uniqueID: 2775035689
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 52091205
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4206937759
+    locked: 0
+  - name: FForeGround
+    uniqueID: 4107954969
+    locked: 0
